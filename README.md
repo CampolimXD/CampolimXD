@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9e2a2b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ian+Campolim;I'm+17+years+old;I+am+from+Itapeva,+SP;I+study+systems+development+at+Etec;Be+Welcome!+XD)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CampolimXD&show_icons=true&count_private=true&hide_border=true&title_color=BA1B1D&icon_color=BA1B1D&text_color=c9d1d9&bg_color=0d1117" alt="Campolim's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CampolimXD&layout=compact&hide_border=true&title_color=BA1B1D&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=campolimxd&show_icons=true&count_private=true&hide_border=true&title_color=BA1B1D&icon_color=BA1B1D&text_color=c9d1d9&bg_color=0d1117" alt="Campolim's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campolimxd&layout=compact&hide_border=true&title_color=BA1B1D&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CampolimXD&bg_color=000000&color=BA1B1D&line=c9d1d9&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=campolimxd&bg_color=000000&color=BA1B1D&line=c9d1d9&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🕹️ About Me:
 🎓 - Student of Systems Development. 
 <br>🎮 - Aspiring game developer.  
